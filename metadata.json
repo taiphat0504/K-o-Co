@@ -1,0 +1,6 @@
+{
+  "name": "Trò Chơi Kéo Co Trắc Nghiệm",
+  "description": "Trò chơi kéo co đối kháng hai đội với các câu hỏi trắc nghiệm vui nhộn, hiệu ứng kéo dây sinh động và tính năng tự thêm câu hỏi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
